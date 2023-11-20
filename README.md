@@ -1,1 +1,1 @@
-# CS5344ProjectGroup2
+# CS5344Project: Review Analysis on Cellphone and Accessories
