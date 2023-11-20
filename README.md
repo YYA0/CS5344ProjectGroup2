@@ -19,7 +19,7 @@ The zip file contains the datasets we used. It contains 4 files:
     LDA_topic_modelling.ipynb
     ./LDA_result
 
-The file ./LDA contains result html files: 
+The file ./LDA_result contains result html files: 
 
     negative.html
     positive.html
